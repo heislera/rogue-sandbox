@@ -1,1 +1,2 @@
-# rogue-sandbox
+# Welcome to my Sandbox!
+This repository is dedicated to familiarizing myself with tcod in order to create a roguelike game, all in the name of my senior design project. I am following [this tutorial](https://rogueliketutorials.com/tutorials/tcod/v2/) if you would like to make one for yourself!
